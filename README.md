@@ -1,9 +1,13 @@
 # Tutorial Fineco
 
+# Indice
+- [Ricomprare prodotti gia in portafoglio](#ricomprare-prodotti-in-portafoglio)
+- [Esplorare obbligazioni](#esplorare-obbligazioni)
 
 
 
-## Ri-comprare prodotti gia' in portafoglio
+
+## Ricomprare prodotti in portafoglio
 1. Dopo aver fatto login vai nella pagina `Portafoglio` (in alto)
 2. Individua prodotto che si vuole ri acquistare (*step 1.*).
 3. Clicca sul bottone `Ordina` corrispondente (*step 2.*)
