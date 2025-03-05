@@ -20,7 +20,7 @@ Una volta impostati tutti i settaggi inserisci il codice PIN e clicca bottone `C
 > 
 > In questo caso occorre inserire la quantita che si avvicini il piu possibile al valore che si vuole investire.
 > 
-> Il modo piu veloce e' procedere per "tentativi" cioe' manualmente modificare la quantita fino a che la voce `Stima Ordine`.
+> Il modo piu veloce e' procedere per "tentativi" cioe' manualmente modificare la quantita fino a che la voce `Stima Ordine` non e' quella desiderata.
 
 
 
@@ -55,3 +55,14 @@ A questo punto puoi selezionare l'obbligazione che preferisci usando criterio.
 In questo caso ad esempio ignoriamo i titoli Argentini perche troppo rischiosi e quindi compriamo un titolo della Romania.
 
 ![buy etf](https://github.com/clarkmaio/TutorialFineco/blob/main/assets/tutorial_fineco_obbligazioni_1.png?raw=true)
+
+
+## Nota
+Nell'esempio precedente puoi escludere titoli "rischiosi" applicando il filtro Rating. Prova ad aggiornare il filtro cosi':
+
+| Filtro | Valore |
+| ---- | ---- |
+| **Tipo di obbligazioni** | Titoli di stato esteri, Btp, Bot |
+| **Divisa di negoziazione** | EUR |
+| **Scadenza** | 3,4,5 anni |
+| **Rating** | Tutti A e tutti B |
